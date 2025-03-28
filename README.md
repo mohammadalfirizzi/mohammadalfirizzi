@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mohammad Alfi Rizzi 👋</h1>
 
-<!--
-**mohammadalfirizzi/mohammadalfirizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🔭 I’m currently working as a **QA Engineer**
+- 🎯 I’m interested in **Test Automation, Playwright, Katalon, and Performance Testing**
+- 📚 I’m learning **Git, GitHub, Locust, and YouTube content creation**
+- 💡 I create tutorials about **IoT, programming, and basic coding for students**
+- ⚡ Fun fact: I love **business and technology** 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- 💻 **Languages:** Python, JavaScript, PHP
+- 🔬 **Testing Tools:** Katalon, Playwright, Cypress, Locust
+- 🌐 **Web Development:** HTML, CSS, JavaScript, PHP, Laravel
+- 🔧 **Version Control:** Git & GitHub
+
+
+## 📬 Connect with Me
+- 📧 Email: mohammadalfirizzi@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-alfi-rizzi-100962155
+- 🎥 YouTube: https://www.youtube.com/@mohammadalfirizzi_3559
+
+---
+
+⭐ **Feel free to check out my repositories and contribute!** 🚀
